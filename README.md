@@ -32,11 +32,11 @@ Na parte do Prometheus, configurei-o normalmente, adicionando no arquivo de conf
 
 Ao rodá-lo no navegador, obtenho esses dados de métricas:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/61dd648e-b361-4730-9aba-30fc16889c48/ae1467ce-f867-45d9-bc84-640cd0900d47/Untitled.jpeg)
+![Untitled](image1.jpg)
 
 E na própria plataforma do Prometheus, no link http://localhost:9090/metrics, apresenta-me esse gráfico:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/61dd648e-b361-4730-9aba-30fc16889c48/1e15ccab-f8b9-4445-bc1a-0ae93dd49483/Untitled.jpeg)
+![Untitled](image2.jpg)
 
 Fonte
 
